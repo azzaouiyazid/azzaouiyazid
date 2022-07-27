@@ -14,7 +14,7 @@ a Passionate Software engineer student  <img src="https://media.giphy.com/media/
 
 - :telescope: Second Year Software engineer Student at Zhejiang University of technology (ZJUT) based in Hangzhou , China .
 
-- :seedling: Currently , My orientation went straight forward into Java programming language universe and now studying the Udacity Java developer Nanodegree in my free time.
+- :seedling: Currently , My orientation went straight-forward into Java programming language universe and now studying the Udacity Java developer Nanodegree in my free time with the ambition of becoming a full time Java developer.
 
 - :zap: My Passion lies in solving complex problems using code and also using the acquired knowledge from time into creating new interesting project!.
 
