@@ -10,4 +10,12 @@
 
 ### :woman_technologist: About Me :
 
-Im a second year Software engineering student At Zhejiang university of technology <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> originally from Morocco.
+a Passionate Software engineer student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> originally from Morocco.
+
+- :telescope: Second Year Software engineer Student at Zhejiang University of technology (ZJUT) based in Hangzhou , China .
+
+- :seedling: Currently , My orientation went straight forward into Java programming language universe and now studying the Udacity Java developer Nanodegree at my free time.
+
+- :zap: My Passion lies in solving complex problems using the code and also using the acquired knowledge from time into creating new interesting project!.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yazid-azzaoui/)
