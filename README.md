@@ -41,3 +41,4 @@ a Passionate Software engineer student  <img src="https://media.giphy.com/media/
 ### :fire: My Stats :
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=azzaouiyazid&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=azzaouiyazid)](https://github.com/anuraghazra/github-readme-stats)
