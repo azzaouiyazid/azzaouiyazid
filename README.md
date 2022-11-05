@@ -14,7 +14,7 @@ a Passionate Software engineer student  <img src="https://media.giphy.com/media/
 
 - :telescope: Second Year Software engineer Student at Zhejiang University of technology (ZJUT) based in Hangzhou , China .
 
-- :seedling: My current focus is on the Java programming language universe, and I am currently studying the Udacity Java developer Nanodegree in my spare time with the goal of becoming a full-time Java developer.
+- :seedling: My current focus is on the Front-end developpement universe, and I am currently studying the Odin Project course in my spare time with the goal of becoming a Front-end developer .
 
 - :zap: My Passion lies in solving complex problems using code and also using the acquired knowledge from time into creating new interesting project!.
 
