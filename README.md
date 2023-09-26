@@ -12,7 +12,7 @@
 
 a Passionate Software engineer student  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> originally from Morocco.
 
-- :telescope: Junior Software engineer Student at Zhejiang University of technology (ZJUT) based in Hangzhou , China .
+- :telescope: Senior Software engineer Student at Zhejiang University of technology (ZJUT) based in Hangzhou , China .
 
 - :zap: My Passion lies in solving complex problems using code and also using the acquired knowledge from time into creating new interesting project!.
 
